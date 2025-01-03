@@ -1,6 +1,3 @@
-[include mmu/base/*.cfg]
-[include mmu/optional/client_macros.cfg]
-[include mmu/addons/dc_espooler.cfg]
 ## Webclient config files. Uncomment one depending on UI being used.
 [include mainsail.cfg]
 #[include fluidd.cfg]
